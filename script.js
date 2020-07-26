@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $("div#design").click(function(){
-        $("div.caption")
+        $(".image1").hide();
     });
 });
