@@ -34,3 +34,17 @@ $(document).ready(function(){
         $("#image3").show();
     });
 });
+$(document).ready(function(){
+    $("#submission").submit(function(event){
+        event.preventDefault();
+        var name=$("input#name").val();
+        var mail=$("input#email").val();
+       
+        if(name!=0 && mail!=0){
+            alert("Hello "+name+" Your details have been received");
+        }else{
+            alert("Enter appropriate input.");
+        }
+        
+    });
+});

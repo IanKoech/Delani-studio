@@ -52,3 +52,17 @@ body{
     text-align: center;
     display:none;
 }
+footer{
+    -moz-box-align: center;
+    padding-top: 35px;
+    max-width: 70vw;
+    margin:0 auto;
+}
+textarea{
+    background: transparent;
+    
+    color:white;
+    padding:3px 15px;
+    width:500px;
+    max-width: 50%;
+}
