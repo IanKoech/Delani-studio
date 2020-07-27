@@ -62,7 +62,7 @@ body{
     display:none;
 }
 footer{
-    -moz-box-align: center;
+   text-align: center;
     padding-top: 35px;
     max-width: 70vw;
     margin:0 auto;
@@ -74,4 +74,11 @@ textarea{
     padding:3px 15px;
     width:500px;
     max-width: 50%;
+}
+footer #images{
+    padding-left: 15px;
+    border-image-width: 12px;
+    align-self: left;
+    margin-left: 180px;
+    padding-bottom: 10px;
 }
