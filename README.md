@@ -13,11 +13,11 @@ Click on the link above to go to the live link
 
 #### Technologies used
 HTML
----
+
 Javascript
----
+
 Jquery
----
+
 CSS
----
+
 Bootstrap
