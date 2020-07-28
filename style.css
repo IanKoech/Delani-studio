@@ -76,3 +76,6 @@ footer #images{
     margin-left: 180px;
     padding-bottom: 10px;
 }
+.mouse:hover{
+    height: 12px;
+}
