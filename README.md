@@ -10,6 +10,8 @@ Authors name is Ian Koech and can be reached at iankoech@gmail.com
 
 #### Set-up Instructions
 Click on the link above to go to the live link
+git clone <repository url>
+code . or atom .
 
 #### Technologies used
 HTML
@@ -21,3 +23,6 @@ Jquery
 CSS
 
 Bootstrap
+
+#### Licences and Copyright
+MIT licence 
