@@ -48,3 +48,45 @@ $(document).ready(function(){
         
     });
 });
+$(document).ready(function(){
+    $(".port1").hover(function(){
+        $(".Wallpapers").show();
+    },function(){
+        $(".Wallpapers").hide();
+    });
+    $(".port2").hover(function(){
+        $(".security").show();
+    },function(){
+        $(".security").hide();
+    });
+    $(".port3").hover(function(){
+        $(".3D").show();
+    },function(){
+        $(".3D").hide();
+    });
+    $(".port4").hover(function(){
+        $(".Assistant").show();
+    },function(){
+        $(".Assistant").hide();
+    });
+    $(".port5").hover(function(){
+        $(".Planner").show();
+    },function(){
+        $(".Planner").hide();
+    });
+    $(".port6").hover(function(){
+        $(".Automation").show();
+    },function(){
+        $(".Automation").hide();
+    });
+    $(".port7").hover(function(){
+        $(".Logo").show();
+    },function(){
+        $(".Logo").hide();
+    });
+    $(".port8").hover(function(){
+        $(".Restaurant").show();
+    },function(){
+        $(".Restaurant").hide();
+    });
+});

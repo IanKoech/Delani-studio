@@ -47,6 +47,11 @@ body{
     margin: 3px 3px 3px 3px;
     border: 3cm solid wheat;
 }
+#portfolio-text{
+    display: none;
+    position: static;
+    
+}
 .contacts{
     background-image: url(https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true);
     background-size: cover;
