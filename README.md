@@ -24,5 +24,7 @@ CSS
 
 Bootstrap
 
+Mailchimp API
+
 #### Licences and Copyright
 MIT licence 
