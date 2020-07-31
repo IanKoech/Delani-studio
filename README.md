@@ -12,6 +12,7 @@ Authors name is Ian Koech and can be reached at iankoech@gmail.com
 Click on the link above to go to the live link
 git clone <repository url>
 code . or atom .
+Enter the required details and also email address to receive updates and product offers regularly
 
 #### Technologies used
 HTML
